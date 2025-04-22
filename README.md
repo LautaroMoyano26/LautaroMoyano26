@@ -8,7 +8,7 @@
 
 <br><br>
 
-- :school: I am a Second-year student in Software Development.
+- :school: I am a Third-year student in Software Development.
 - :technologist: Passionate about using software to solve real-world problems.
 - :computer: Experienced in full-stack projects with:
 - Programming languages: C# and Python
